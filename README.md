@@ -1,6 +1,3 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
   Welcome to Ehab Ahmad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -13,7 +10,8 @@
 
 - 🏢 I'm a Software Engineer specialized in mobile app development.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Java, Kotlin, Swift, JavaScript, NodeJS, React Native, MySQL, Firebase, and Arduino, or anything related to Full Stack mobile applications (Android & iOS) and IoT.
+- 🏢 Experienced in Java, Kotlin, Swift, C#, C++, NodeJS, React Native, MySQL, Firebase, and Arduino.
+- 💬 Ask me about anything related to Full Stack mobile applications (Android & iOS) and IoT.
 - ![GooglePlay](https://img.shields.io/badge/-05122A?style=flat&logo=googleplay) Check out my page on <a href="https://play.google.com/store/apps/developer?id=Eihab+Ahmed">Google Play</a> to see some of my games and apps.
 - ![YouTube](https://img.shields.io/badge/-05122A?style=flat&logo=youtube) Also check out my IoT playlist on <a href="https://www.youtube.com/playlist?list=PLhNmBTuvg-E_EVKPHCnJekkHC3octo2id">YouTube</a> to learn how to use my IoT platform.
 
